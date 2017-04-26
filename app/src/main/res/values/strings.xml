@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FSM</string>
+
+    <string name="lock_button">LOCK</string>
+    <string name="lock_double_buttton">LOCKx2</string>
+    <string name="unlock_button">UNLOCK</string>
+    <string name="unlock_double_button">UNLOCKx2</string>
+
+    <string name="all_locked">All doors are locked</string>
+    <string name="all_unlocked">All doors are unlocked</string>
+    <string name="driver_unlocked">Driver door is unlocked</string>
+
+
+
+
+
+
+
+</resources>
