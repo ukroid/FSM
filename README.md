@@ -1,2 +1,2 @@
 # FSM-app
-FSM app developed for GlobalLogic test task.
+FSM app developed for test task.
